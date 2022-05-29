@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rafal Skibinski</h1>
+<h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">A passionate python developer</h3>
 
 - 🔭 I’m currently working on **Web and desktop apps with python (flask, pandas, thinker, opencv) and databases (postgresql, sqlite).**
 
 - 🌱 I’m currently learning **Python for Data Science and Machine Learning**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
